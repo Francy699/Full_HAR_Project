@@ -1,4 +1,4 @@
-# Human Activity Recognition with CNN
+![Screenshot 2025-04-22 111505](https://github.com/user-attachments/assets/d478a493-6568-41b1-b41e-9d34b93c3eba)# Human Activity Recognition with CNN
 
 This project is a Human Activity Recognition web application using CNNs, Flask, and a stylish frontend. Users can upload images or videos to classify human actions in real-time.
 
@@ -33,3 +33,9 @@ Human-Activity-Recognition-CNN/
 │       ├── css/style.css
 │       └── js/script.js
 ```
+![Screenshot 2025-04-22 111505](https://github.com/user-attachments/assets/7a547559-0fbc-43f8-9044-a15b647ddb7b)
+
+![Screenshot 2025-04-22 111437](https://github.com/user-attachments/assets/03b8a839-756e-492a-97fc-80d01eacc4c2)
+
+
+
