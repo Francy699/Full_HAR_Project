@@ -33,7 +33,7 @@ Human-Activity-Recognition-CNN/
 │       ├── css/style.css
 │       └── js/script.js
 ```
-![Screenshot 2025-04-22 111505](https://github.com/user-attachments/assets/7a547559-0fbc-43f8-9044-a15b647ddb7b)
+output:
 
 ![Screenshot 2025-04-22 111437](https://github.com/user-attachments/assets/03b8a839-756e-492a-97fc-80d01eacc4c2)
 
